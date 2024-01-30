@@ -1,6 +1,6 @@
 # 🙊🔉Vocal-Echoic Keyword Spotting (VE-KWS)
 
-### 🔥Robust Dual-Modal Speech Keyword Spotting for XR Headsets 🔥
+### 🔥Robust Dual-Modal Speech Keyword Spotting for XR Headsets 🔥 [[arXiv]](https://arxiv.org/abs/2401.14978)
 
 #### ⚡Additional code and detailed documentation will be released soon.⚡
 
@@ -17,6 +17,19 @@
 ## ▶️ Demo
 
 [![Watch the video](figures/video_cover.jpg)](https://youtu.be/fSQoEJ37uEw)
+
+## 📖 Citation
+```
+@misc{cai2024robust,
+      title={Robust Dual-Modal Speech Keyword Spotting for XR Headsets}, 
+      author={Zhuojiang Cai and Yuhan Ma and Feng Lu},
+      year={2024},
+      eprint={2401.14978},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC}
+}
+```
+
 
 ## Acknowledgments
 
